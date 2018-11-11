@@ -1,0 +1,21 @@
+title: The Smoothie
+author: Egor Kirpichev
+email: egor.kirpichev@gmail.com
+location: Berlin, Germany
+description: >
+  Welcome to <b>The Smoothie</b>
+
+# Date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+date_format: "%b %-d, %Y"
+
+rss: rss
+imprint: imprint.md
+
+# Build settings    
+remote_theme: thesmoothie/thesmoothie-jekyll-theme
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme

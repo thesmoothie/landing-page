@@ -1,4 +1,7 @@
 ---
-title: Welcome
+title: Home
+layout: default
 ---
-This is a permission test
+
+# Welcome to the Smoothie
+More to be here soon
