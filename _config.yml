@@ -13,7 +13,7 @@ rss: rss
 imprint: imprint.md
 
 # Build settings    
-remote_theme: thesmoothie/thesmoothie-jekyll-theme
+remote_theme: thesmoothie/thesmoothie-jekyll-theme@v0.1.5
 
 plugins:
  - jekyll-feed
