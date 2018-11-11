@@ -1,4 +1,4 @@
 ---
 title: Welcome
 ---
-This is a test
+This is a permission test
