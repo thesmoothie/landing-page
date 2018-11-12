@@ -4,8 +4,6 @@ title: Imprint
 exclude: true
 ---
 
-{%- include header.html -%}
-
 *Angaben gemäß § 5 TMG, verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:*
 
 ## Scops UG (haftungsbeschränkt)
@@ -49,3 +47,5 @@ Diese Website benutzt Google Adsense, einen Webanzeigendienst der Google Inc., U
 <div class="text-muted">
 	<i>Letztes Update: {{ site.time | date: '%d.%m.%Y' }}</i>
 </div>
+<br>
+<br>
