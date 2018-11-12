@@ -3,8 +3,6 @@ title: Home
 layout: page
 ---
 
-<!-- {%- include header.html -%} -->
-
 # We deliver frozen smoothie ingredients to your home or work place
 
 <br>
